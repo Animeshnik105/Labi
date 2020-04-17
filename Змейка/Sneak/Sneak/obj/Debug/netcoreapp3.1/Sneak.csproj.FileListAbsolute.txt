@@ -1,0 +1,11 @@
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\bin\Debug\netcoreapp3.1\Sneak.exe
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\bin\Debug\netcoreapp3.1\Sneak.deps.json
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\bin\Debug\netcoreapp3.1\Sneak.runtimeconfig.json
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\bin\Debug\netcoreapp3.1\Sneak.runtimeconfig.dev.json
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\bin\Debug\netcoreapp3.1\Sneak.dll
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\bin\Debug\netcoreapp3.1\Sneak.pdb
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\obj\Debug\netcoreapp3.1\Sneak.csprojAssemblyReference.cache
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\obj\Debug\netcoreapp3.1\Sneak.AssemblyInfoInputs.cache
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\obj\Debug\netcoreapp3.1\Sneak.AssemblyInfo.cs
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\obj\Debug\netcoreapp3.1\Sneak.dll
+C:\Users\MVM\Desktop\Спиридонов С.А. 691 группа Лабараторные работы\Змейка\Sneak\Sneak\obj\Debug\netcoreapp3.1\Sneak.pdb
